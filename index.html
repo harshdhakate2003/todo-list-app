@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <div id="todoList">
+        <div id="inpDiv">
+            <input type="text" name="" id="inpBox" placeholder="Enter your task">
+            <select name="" id="prio">
+                <option value="none">Select</option>
+                <option value="high">High</option>
+                <option value="medium">Medium</option>
+                <option value="low">Low</option>
+            </select>
+            <button id="addBtn">Add Todo</button>
+        </div>
+
+        <div id="dataDiv">
+            <table>
+                <thead>
+                    <tr>
+                        <th>SrNo</th>
+                        <th>Task</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Change Status</th>
+                        <th>Task Delete</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tbody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</body>
+<script src="./script.js"></script>
+</html>
