@@ -1,34 +1,39 @@
-# To-Do List App
+# 📝 To-Do List App
 
-A simple and responsive To-Do List web application that helps users manage daily tasks efficiently.
+A simple To-Do List web application built using HTML, CSS and JavaScript.  
+This app helps users manage daily tasks by adding, completing and deleting tasks.
+
+---
 
 ## Features
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Simple and clean user interface
-- Responsive design
+- Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Clean and simple user interface  
+
+---
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- HTML  
+- CSS  
+- JavaScript  
+
+---
 
 ## How to Use
-1. Enter a task in the input field
-2. Click on "Add" button to add the task
-3. Click on a toggle to mark it as completed
-4. Click on delete button to remove the task
+1. Enter a task in the input field  
+2. Click the **Add** button to add the task  
+3. Click on a task to mark it as completed  
+4. Click the **Delete** button to remove the task  
 
-## Project Structure
-- index.html
-- style.css
-- script.js
+---
 
-## Learning Outcome
-- Improved JavaScript DOM manipulation skills  
-- Learned how to handle user input and events  
-- Built a responsive UI using HTML and CSS  
+## What I Learned
+- JavaScript DOM manipulation  
+- Handling user input and events  
+- Building a simple UI using HTML and CSS  
+
+---
 
 ## Author
-Harsh Dhakate  
+Harsh Dhakate
